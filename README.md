@@ -3,10 +3,6 @@ jshintrc-files
 
 Repository to store default .jshintrc files for we.js projects
 
-### For ember.js
+### For we.js plugins
 
-... TODO
-
-### For node.js
-
-... TODO
+Link: https://github.com/wejs/jshintrc-files/blob/master/nodejs.jshint
